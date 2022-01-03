@@ -1,0 +1,12 @@
+{"intents":
+    [
+        {
+            "tag":"greetings",
+            "patterns":["hi","hi there","hello","hey","whats up","good morning","good afternoon","good evening","good day"],
+            "responses":["Hello there!","Hey!","Hello","How are you?","How's it going?"],
+            "function":""
+        }
+
+    ]
+
+}
